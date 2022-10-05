@@ -28,7 +28,7 @@ education:
   courses:
     - course: Master of Arts - Development Studies
       institution: Indian Institute of Technology
-      year: ""
+      year: 2022
     - course: Summer Program
       institution: Kyoto University, Japan
       year: 2022
