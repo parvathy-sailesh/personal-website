@@ -26,15 +26,15 @@ organizations:
     url: https://www.iitg.ac.in
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Arts - Development Studies
+      institution: Indian Institute of Technology
+      year: ""
+    - course: Summer Program
+      institution: Kyoto University, Japan
+      year: 2022
+    - course: Bachelor of Arts (Hons)- Economics
+      institution: CHRIST (Deemed to be University)
+      year: 1999
 superuser: true
 last_name: Bighetti
 highlight_name: true
