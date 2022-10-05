@@ -34,7 +34,7 @@ education:
       year: 2022
     - course: Bachelor of Arts (Hons)- Economics
       institution: CHRIST (Deemed to be University)
-      year: 1999
+      year: 2021
 superuser: true
 last_name: Bighetti
 highlight_name: true
